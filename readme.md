@@ -28,6 +28,6 @@
   </a>
 </p>
 
-# Acknowlegements
+# Acknowledgements
 
 Logo generously created by __[craftedsystems](https://github.com/craftedsystems)__.
